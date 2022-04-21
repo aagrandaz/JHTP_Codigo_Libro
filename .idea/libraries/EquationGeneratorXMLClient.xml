@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="EquationGeneratorXMLClient">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/examples/ch32/EquationGeneratorXMLClient/dist/EquationGeneratorXMLClient.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

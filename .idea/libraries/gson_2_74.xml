@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="gson-2.74">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/examples/ch32/gson-2.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

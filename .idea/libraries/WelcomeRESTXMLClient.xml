@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="WelcomeRESTXMLClient">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/examples/ch32/WelcomeRESTXMLClient/dist/WelcomeRESTXMLClient.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

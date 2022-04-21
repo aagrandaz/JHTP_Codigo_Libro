@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="EquationGeneratorJSONClient">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/examples/ch32/EquationGeneratorJSONClient/dist/EquationGeneratorJSONClient.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

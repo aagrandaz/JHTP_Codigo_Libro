@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SerializationApps">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/examples/ch15/SerializationApps.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
