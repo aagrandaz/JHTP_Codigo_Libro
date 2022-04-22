@@ -14,9 +14,9 @@ public class Tiempo {
                     "hora, munuto y/o segundo esta fuera de rango");
         }
 
-        this.hora;
-        this.minuto;
-        this.segundo;
+        this.hora = hora;
+        this.minuto = minuto;
+        this.segundo = segundo;
     }
 
     // convertir a objeto String en formato de hira Universal(HH:MM:SS)
